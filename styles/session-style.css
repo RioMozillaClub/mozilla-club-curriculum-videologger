@@ -585,3 +585,6 @@ figcaption {
 
 }
 
+.has-shot {
+  max-width: 100%;
+}
